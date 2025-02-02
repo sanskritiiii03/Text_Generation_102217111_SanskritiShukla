@@ -68,8 +68,9 @@ Darker shades indicate stronger performance. GPT-4 and Gemini 1.5 Pro dominate a
 GPT-4 and Gemini 1.5 Pro rank at the top, with Claude 2.1 closely behind.
 
 ## Conclusion
-If you prioritize efficiency and creativity, Gemini 1.5 Pro is a great option.
-If accuracy and robustness are key, GPT-4 is the best choice.
-For summarization tasks, Claude 2.1 performs exceptionally well.
-LLaMA 2 & MPT-30B are viable open-source alternatives, but with some performance trade-offs.
-Each model has its strengths and limitations—choosing the right one depends on your specific use case.
+1)If you prioritize efficiency and creativity, Gemini 1.5 Pro is a great option.  
+2)If accuracy and robustness are key, GPT-4 is the best choice.  
+3)For summarization tasks, Claude 2.1 performs exceptionally well.  
+4)LLaMA 2 & MPT-30B are viable open-source alternatives, but with some performance trade-offs.  
+
+Each model has its strengths and limitations—choosing the right one depends on your specific use case.  
