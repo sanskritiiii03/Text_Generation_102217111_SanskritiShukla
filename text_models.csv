@@ -1,0 +1,6 @@
+Model,Perplexity (PPL),BLEU Score,ROUGE Score,Diversity Metrics,Latency,Memory Usage
+GPT-4,90,96,100,89,78,74
+Gemini 1.5 Pro,86,97,94,100,74,74
+Claude 2.1,64,88,100,76,76,59
+LLaMA 2,68,93,89,82,88,53
+MPT-30B,72,89,85,79,85,60
