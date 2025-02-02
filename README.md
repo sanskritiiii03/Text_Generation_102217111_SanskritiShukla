@@ -63,9 +63,9 @@ MPT-30B – Competitive but falls short in overall efficiency.
 
 ## Graph Interpretations
 **Decision Matrix Heatmap:**
-Darker shades indicate stronger performance. GPT-4 and Gemini 1.5 Pro dominate across multiple metrics.
+Darker shades indicate stronger performance. GPT-4 and Gemini 1.5 Pro dominate across multiple metrics.  
 **TOPSIS Bar Chart:**
-GPT-4 and Gemini 1.5 Pro rank at the top, with Claude 2.1 closely behind.
+GPT-4 and Gemini 1.5 Pro rank at the top, with Claude 2.1 closely behind.  
 
 ## Conclusion
 1)If you prioritize efficiency and creativity, Gemini 1.5 Pro is a great option.  
